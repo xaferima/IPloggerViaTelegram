@@ -6,7 +6,7 @@ This uses fingerprintjs2, geoiplookup.io API, and a bot in telegram to send info
 ## Installation
 
 ```bash
-    git clone https://github.com/xaferima/loggerTelegram.git
+    git clone https://github.com/xaferima/IPloggerViaTelegram.git
 ```
 
 ## Usage
